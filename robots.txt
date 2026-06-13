@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roberflo.github.io/landingforge-demos/sitemap.xml
